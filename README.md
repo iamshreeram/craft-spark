@@ -1,2 +1,2 @@
 # craft-spark
-Simple web page for craft
+Singe page web application for crafting 
